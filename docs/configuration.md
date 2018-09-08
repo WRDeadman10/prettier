@@ -17,7 +17,7 @@ The options to the configuration file are the same as the [API options](options.
 ## Basic Configuration
 
 JSON:
-
+"editor.formatOnSave": false,
 ```json
 {
   "printWidth": 100,
